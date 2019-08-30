@@ -1,0 +1,27 @@
+# Fizz Buzz
+
+## 題目
+
+## 要做的事
+
+### 開啟自動測試
+
+這一題不要求寫自動測試，請到
+
+[../tests/Feature/FizzBuzzTest.php](../tests/Feature/FizzBuzzTest.php) 
+
+將 `$this->markTestSkipped();` 註解掉之後，運行測試。
+
+順利的話，你應該會看到六個F，這代表有六個之前寫好的測試案例失敗了。
+
+### 撰寫程式
+
+修改 `FizzBuzzService` 裡面的 `fizzBuzz()` 函式
+
+讓程式能符合題目的要求，通過所有的測試案例
+
+## 加分題
+
+寫過單元測試嗎？
+
+試看看在 [Unit/FizzBuzzServiceTest.php](Unit/FizzBuzzServiceTest.php) 裡面加上針對 `FizzBuzzService->fizzBuzz()` 函式的測試

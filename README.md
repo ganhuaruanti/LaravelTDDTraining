@@ -25,3 +25,8 @@ Time: 160 ms, Memory: 16.00 MB
 
 OK (2 tests, 2 assertions)
 ```
+## 題目
+
+以下準備幾題題目，供大家練習測試驅動開發
+
+0. [FizzBuzz](docs/fizz_buzz.md)
