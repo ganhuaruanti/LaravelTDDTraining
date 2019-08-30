@@ -24,4 +24,4 @@
 
 寫過單元測試嗎？
 
-試看看在 [Unit/FizzBuzzServiceTest.php](Unit/FizzBuzzServiceTest.php) 裡面加上針對 `FizzBuzzService->fizzBuzz()` 函式的測試
+試看看在 [Unit/FizzBuzzServiceTest.php](../tests/Unit/FizzBuzzServiceTest.php) 裡面加上針對 `FizzBuzzService->fizzBuzz()` 函式的測試
