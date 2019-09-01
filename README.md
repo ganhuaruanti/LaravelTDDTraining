@@ -28,8 +28,11 @@ Tests: 14, Assertions: 2, Skipped: 12.
 ```
 ## 題目
 
-以下準備幾題題目，供大家練習測試驅動開發
+以下準備幾題題目，供大家練習測試驅動開發。
 
-0. [FizzBuzz](docs/fizz_buzz.md)
-0. [質因數分解](docs/factorization.md)
-0. [Tennis](docs/tennis.md)
+題目順序建議依照編號由小到大練習
+
+1. [FizzBuzz](docs/fizz_buzz.md)
+1. [質因數分解](docs/factorization.md)
+1. [Tennis](docs/tennis.md)
+1. [Hello world](docs/hello_world.md)
