@@ -19,14 +19,17 @@ $ vendor/phpunit/phpunit/phpunit
 ```
 PHPUnit 7.5.15 by Sebastian Bergmann and contributors.
 
-..                                                                  2 / 2 (100%)
+..SSSSSSSSSSSS                                                                  2 / 2 (100%)
 
-Time: 160 ms, Memory: 16.00 MB
+Time: 650 ms, Memory: 18.00 MB
 
-OK (2 tests, 2 assertions)
+OK, but incomplete, skipped, or risky tests!
+Tests: 14, Assertions: 2, Skipped: 12.
 ```
 ## 題目
 
 以下準備幾題題目，供大家練習測試驅動開發
 
 0. [FizzBuzz](docs/fizz_buzz.md)
+0. [質因數分解](docs/factorization.md)
+0. [Tennis](docs/tennis.md)

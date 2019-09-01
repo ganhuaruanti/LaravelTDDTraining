@@ -19,3 +19,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 
 Route::get('/fizz-buzz/{num}', 'FizzBuzzController@fizzBuzz');
+Route::get('/factor/{num}', 'FactorizationController@factor');
+Route::post('/tennis/', 'TennisController@tennis');
