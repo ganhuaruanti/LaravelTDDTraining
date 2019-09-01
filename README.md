@@ -37,4 +37,3 @@ Tests: 14, Assertions: 2, Skipped: 12.
 1. [Tennis](docs/tennis.md)
 1. [Hello world](docs/hello_world.md)
 1. [閏年](docs/leap_year.md)
-1. [鑲金玫瑰](docs/gilded_rose.md)
